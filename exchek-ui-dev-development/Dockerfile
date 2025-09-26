@@ -32,7 +32,7 @@
           FROM nginx:alpine AS production
           RUN rm -rf /usr/share/nginx/html/*
           COPY --from=build-env /app/build/web /usr/share/nginx/html/
-          COPY nginx.conf /etc/nginx/conf.d/default.conf
+    
           RUN echo 'server {' > /etc/nginx/conf.d/default.conf && \
               echo '    listen 80;' >> /etc/nginx/conf.d/default.conf && \
               echo '    server_name localhost;' >> /etc/nginx/conf.d/default.conf && \
