@@ -9,7 +9,7 @@ jobs:
     runs-on: self-hosted
     steps:
       # Step 1: Checkout code
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
 
       # Step 2: Stop old container if exists
       - name: Stop old container
