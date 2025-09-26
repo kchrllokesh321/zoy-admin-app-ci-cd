@@ -23,7 +23,7 @@ jobs:
 
       # Step 3: Build Docker image
       - name: Build Docker image
-        run: docker build -t myapp-image ./exchek-ui-dev-development/ .
+        run: docker build -t myapp-image ./exchek-ui-dev-development/ 
 
       # Step 4: Run new container mapping ports (host:container)
       - name: Run Docker container
