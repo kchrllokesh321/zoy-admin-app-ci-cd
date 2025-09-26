@@ -1,0 +1,18 @@
+<svg width="21" height="22" viewBox="0 0 21 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_2021)">
+<ellipse cx="10.5686" cy="11.1668" rx="10.365" ry="9.9782" fill="white"/>
+<path d="M10.5688 1.58902C16.0867 1.58913 20.5337 5.89153 20.5337 11.1671C20.5335 16.4426 16.0866 20.7452 10.5688 20.7453C5.05096 20.7453 0.604184 16.4427 0.604004 11.1671C0.604004 5.89146 5.05084 1.58902 10.5688 1.58902Z" stroke="#9B9B9B" stroke-opacity="0.6" stroke-width="0.8"/>
+<g clip-path="url(#clip1_1_2021)">
+<path d="M10.3794 7.36832L7.02473 10.5705L10.3794 13.7727" stroke="black" stroke-width="1.0365" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.02135 10.5714L13.5513 10.5714" stroke="black" stroke-width="1.0365" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_2021">
+<rect x="0.285645" y="0.571442" width="20.5714" height="20.5714" rx="10.2857" fill="white"/>
+</clipPath>
+<clipPath id="clip1_1_2021">
+<rect width="9.32852" height="9.32852" fill="white" transform="matrix(-1 0 0 1 14.9497 5.90738)"/>
+</clipPath>
+</defs>
+</svg>

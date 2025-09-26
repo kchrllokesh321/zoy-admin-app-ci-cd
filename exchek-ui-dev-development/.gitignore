@@ -1,0 +1,95 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+coverage/
+
+# # Environment files
+# .env
+# .env.*
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/Pods/
+ios/.symlinks/
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcuserdata/
+ios/.generated/
+
+# Android
+android/.gradle/
+android/captures/
+android/gradle/
+android/app/*.iml
+android/local.properties
+android/*.iml
+android/.idea/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Build outputs
+build/
+*.apk
+*.aab
+
+# Web
+web/.dart_tool/
+web/build/
+
+# Desktop
+windows/
+linux/
+macos/
+
+# Coverage and testing
+coverage/
+test/**/*.dill
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# Node artifacts
+node_modules/
+dist/
+
+# Java artifacts
+*.class
+*.jar
+*.war
+
+# Python artifacts
+*.py[cod]
+
+# Test reports
+TEST*.xml
+
+# Media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+# Executables and apps
+*.exe
+*.app
+
+lib/core/generated/
